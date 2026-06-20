@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:ec4899&height=250&section=header&text=Praneeth%20Cheturi&fontSize=60&fontColor=ffffff&fontAlignY=45&fontWeight=700&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=65&descSize=20&descColor=e0e7ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:ec4899&height=280&section=header&text=Praneeth%20Cheturi&fontSize=65&fontColor=ffffff&fontAlignY=42&fontWeight=800&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=62&descSize=22&descColor=c7d2fe&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -9,9 +9,10 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethcheturi)
-[![Email](https://img.shields.io/badge/Email-vcheturi%40buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vcheturi@buffalo.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://inequality-lens.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-praneethcheturi--143-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneethcheturi-143)
+[![Email](https://img.shields.io/badge/Email-praneethcheturi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethcheturi@gmail.com)
+[![InequalityLens](https://img.shields.io/badge/🌍_InequalityLens-Live-6366f1?style=for-the-badge)](https://inequality-lens.vercel.app)
+[![NeuralForge](https://img.shields.io/badge/🧠_NeuralForge-Live-ec4899?style=for-the-badge)](https://neuralforge-ten.vercel.app)
+[![CollabFlow](https://img.shields.io/badge/🚀_CollabFlow-Live-10b981?style=for-the-badge)](https://collabflow-seven.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=praneethcheturi-143&color=6366f1&style=for-the-badge&label=Profile+Views)
 
@@ -26,9 +27,11 @@ class PraneethCheturi:
     def __init__(self):
         self.name         = "Praneeth Cheturi"
         self.role         = ["Data Scientist", "ML Engineer", "Full-Stack Developer"]
-        self.education    = "MS Computer Science @ University at Buffalo"
-        self.location     = "Buffalo, NY, USA"
-        self.open_to      = ["DS", "ML Engineering", "Data Engineering", "Full-Stack", "AI Engineering"]
+        self.education    = "MS Computer Science @ University at Buffalo 🎓"
+        self.location     = "Buffalo, NY, USA 📍"
+        self.email        = "praneethcheturi@gmail.com"
+        self.open_to      = ["DS", "ML Engineering", "Data Engineering",
+                             "Full-Stack", "AI Engineering"]
         self.experience   = "0–4 years level"
 
     def build(self):
@@ -44,6 +47,7 @@ class PraneethCheturi:
 
 me = PraneethCheturi()
 print(me.build())
+# → End-to-end ML systems — from raw data pipelines to deployed production apps
 ```
 
 ---
@@ -57,18 +61,19 @@ print(me.build())
 ### ⚖️ InequalityLens
 **Full-stack DS Platform**
 
-[![Live](https://img.shields.io/badge/🌍_Live-Visit-6366f1?style=flat-square)](https://inequality-lens.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/InequalityLens)
+[![Live](https://img.shields.io/badge/🌍_Live_Demo-Visit-6366f1?style=flat-square)](https://inequality-lens.vercel.app)
+[![API](https://img.shields.io/badge/📡_API_Docs-Swagger-009688?style=flat-square)](https://inequalitylens.onrender.com/docs)
+[![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/InequalityLens)
 
-<img src="https://github.com/praneethcheturi-143/InequalityLens/raw/main/assets/dashboard.png" width="100%" style="border-radius:8px"/>
+<img src="https://github.com/praneethcheturi-143/InequalityLens/raw/main/assets/dashboard.png" width="100%"/>
 
-Real-world inequality analytics with ETL pipeline, ML models, D3 choropleth, policy simulator, and AI analyst.
+Real-world inequality analytics — ETL pipeline from World Bank + Census APIs, ML models, D3 choropleth map, policy simulator, and AI analyst.
 
 **Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square)
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square)
 
 **Highlights:**
@@ -83,17 +88,18 @@ Real-world inequality analytics with ETL pipeline, ML models, D3 choropleth, pol
 ### 🧠 NeuralForge
 **AI Security & MLOps Platform**
 
-[![Live](https://img.shields.io/badge/🧠_Live-Visit-ec4899?style=flat-square)](https://neuralforge-ten.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/neuralforge)
+[![Live](https://img.shields.io/badge/🧠_Live_Demo-Visit-ec4899?style=flat-square)](https://neuralforge-ten.vercel.app)
+[![API](https://img.shields.io/badge/📡_API_Docs-Swagger-009688?style=flat-square)](https://neuralforge-e6ci.onrender.com/docs)
+[![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/neuralforge)
 
-<img src="https://github.com/praneethcheturi-143/neuralforge/raw/master/assets/dashboard.png" width="100%" style="border-radius:8px"/>
+<img src="https://github.com/praneethcheturi-143/neuralforge/raw/master/assets/dashboard.png" width="100%"/>
 
-Adversarial attacks from scratch, real-time threat streaming, drift detection, SHAP explainability, auto-retraining.
+Adversarial attacks from scratch in PyTorch, real-time WebSocket threat streaming, SHAP explainability, drift detection, and auto-retraining with MLflow.
 
 **Stack:**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Highlights:**
@@ -108,12 +114,13 @@ Adversarial attacks from scratch, real-time threat streaming, drift detection, S
 ### 🚀 CollabFlow
 **Real-time Collaboration Platform**
 
-[![Live](https://img.shields.io/badge/🚀_Live-Visit-10b981?style=flat-square)](https://collabflow-seven.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/collabflow)
+[![Live](https://img.shields.io/badge/🚀_Live_Demo-Visit-10b981?style=flat-square)](https://collabflow-seven.vercel.app)
+[![API](https://img.shields.io/badge/📡_Backend-API-009688?style=flat-square)](https://collabflow-api.onrender.com)
+[![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/collabflow)
 
-<img src="https://github.com/praneethcheturi-143/collabflow/raw/main/assets/dashboard.png" width="100%" style="border-radius:8px"/>
+<img src="https://github.com/praneethcheturi-143/collabflow/raw/main/assets/dashboard.png" width="100%"/>
 
-Full-stack Kanban board with real-time multi-user sync, JWT auth, drag-and-drop, and PostgreSQL backend.
+Full-stack Kanban board with real-time multi-user sync via Socket.io, JWT auth, drag-and-drop, PostgreSQL, and GitHub Actions CI/CD.
 
 **Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -145,7 +152,7 @@ Full-stack Kanban board with real-time multi-user sync, JWT auth, drag-and-drop,
 │ Census ACS   │ PyTorch      │ Pydantic     │ D3.js choropleth       │
 │ REST APIs    │ HuggingFace  │ WebSocket    │ Recharts               │
 │ Pandas ETL   │ MLflow       │ JWT Auth     │ TypeScript             │
-│ Parquet/CSV  │ SHAP/XAI     │ Swagger      │ Dark mode              │
+│ Parquet/CSV  │ SHAP / XAI   │ Swagger      │ Dark mode              │
 └──────────────┴──────────────┴──────────────┴────────────────────────┤
 │                      DEVOPS LAYER                                    │
 │  Docker · docker-compose · GitHub Actions CI/CD · Render · Vercel   │
@@ -212,8 +219,8 @@ Full-stack Kanban board with real-time multi-user sync, JWT auth, drag-and-drop,
 
 <div align="center">
 
-| Role | Skills match | Project |
-|------|-------------|---------|
+| Role | Skills | Project |
+|------|--------|---------|
 | 🧪 **Data Scientist** | ETL · ML models · Statistics · Visualisation | InequalityLens |
 | 🤖 **ML Engineer** | PyTorch · scikit-learn · MLflow · deployment | NeuralForge |
 | 🔧 **Data Engineer** | ETL pipelines · REST APIs · Parquet · PostgreSQL | InequalityLens |
@@ -269,7 +276,6 @@ GitHub ──► GitHub Actions CI/CD
         │               │
         └───────┬───────┘
                 ▼
-         Live Production
   ✅ inequality-lens.vercel.app
   ✅ neuralforge-ten.vercel.app
   ✅ collabflow-seven.vercel.app
@@ -287,30 +293,28 @@ GitHub ──► GitHub Actions CI/CD
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=praneethcheturi-143&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's connect!
 
-I'm actively looking for **DS · ML · Data Engineering · Full-Stack roles (0–4 years).**
+**MS Computer Science @ University at Buffalo 🎓**
+
+I'm actively looking for **DS · ML · Data Engineering · Full-Stack roles (0–4 years)**
 If you're hiring or want to collaborate — reach out!
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vcheturi@buffalo.edu)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethcheturi)
+[![Email](https://img.shields.io/badge/📧_praneethcheturi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethcheturi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethcheturi)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:06b6d4,100:6366f1&height=120&section=footer" width="100%"/>
+[![InequalityLens](https://img.shields.io/badge/🌍_InequalityLens-inequality--lens.vercel.app-6366f1?style=for-the-badge)](https://inequality-lens.vercel.app)
+[![NeuralForge](https://img.shields.io/badge/🧠_NeuralForge-neuralforge--ten.vercel.app-ec4899?style=for-the-badge)](https://neuralforge-ten.vercel.app)
+[![CollabFlow](https://img.shields.io/badge/🚀_CollabFlow-collabflow--seven.vercel.app-10b981?style=for-the-badge)](https://collabflow-seven.vercel.app)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:6366f1,100:06b6d4&height=120&section=footer" width="100%"/>
 
 </div>
