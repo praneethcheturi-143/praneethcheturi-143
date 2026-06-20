@@ -1,16 +1,50 @@
 <div align="center">
 
-# Hi, I'm Praneeth Cheturi 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,06b6d4,ec4899&height=200&section=header&text=Praneeth%20Cheturi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-**Data Scientist · ML Engineer · Full-Stack Developer**
+<br/>
 
-*Building end-to-end ML systems — from raw data pipelines to deployed production applications*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+end-to-end+ML+systems+%F0%9F%A7%A0;From+raw+data+pipelines+to+production+apps+%F0%9F%9A%80;MS+Computer+Science+%40+University+at+Buffalo+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/praneethcheturi)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:praneethcheturi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://neuralforge-ten.vercel.app)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethcheturi)
+[![Email](https://img.shields.io/badge/Email-vcheturi%40buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vcheturi@buffalo.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://inequality-lens.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-praneethcheturi--143-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneethcheturi-143)
+
+![Profile Views](https://komarev.com/ghpvc/?username=praneethcheturi-143&color=6366f1&style=for-the-badge&label=Profile+Views)
 
 </div>
+
+---
+
+## 🧑‍💻 About Me
+
+```python
+class PraneethCheturi:
+    def __init__(self):
+        self.name         = "Praneeth Cheturi"
+        self.role         = ["Data Scientist", "ML Engineer", "Full-Stack Developer"]
+        self.education    = "MS Computer Science @ University at Buffalo"
+        self.location     = "Buffalo, NY, USA"
+        self.open_to      = ["DS", "ML Engineering", "Data Engineering", "Full-Stack", "AI Engineering"]
+        self.experience   = "0–4 years level"
+
+    def build(self):
+        return "End-to-end ML systems — from raw data pipelines to deployed production apps"
+
+    def current_focus(self):
+        return [
+            "Adversarial ML & AI Security",
+            "MLOps pipelines with drift detection",
+            "Full-stack data science platforms",
+            "Real-time systems with WebSockets",
+        ]
+
+me = PraneethCheturi()
+print(me.build())
+```
 
 ---
 
@@ -21,58 +55,77 @@
 <td width="33%" valign="top">
 
 ### ⚖️ InequalityLens
-**Full-stack DS platform**
+**Full-stack DS Platform**
 
-Real-world inequality analytics with ML predictions, D3 choropleth maps, policy simulator, and AI analyst.
+[![Live](https://img.shields.io/badge/🌍_Live-inequality--lens.vercel.app-6366f1?style=flat-square)](https://inequality-lens.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-InequalityLens-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/InequalityLens)
 
-**Stack:** Python · FastAPI · React · D3.js · scikit-learn
+<img src="https://github.com/praneethcheturi-143/InequalityLens/raw/main/assets/dashboard.png" width="100%" style="border-radius:8px"/>
+
+Real-world inequality analytics with ETL pipeline, ML models, D3 choropleth, policy simulator, and AI analyst.
+
+**Stack:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
 
 **Highlights:**
-- ETL pipeline (World Bank, Census ACS)
-- Random Forest + KMeans + Ridge regression
-- 8 interactive modules
-- Dark mode · CI/CD · Docker
-
-[![Live](https://img.shields.io/badge/Live-inequality--lens.vercel.app-brightgreen)](https://inequality-lens.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-InequalityLens-black?logo=github)](https://github.com/praneethcheturi-143/InequalityLens)
+- 🔄 ETL: World Bank + Census ACS APIs
+- 🤖 RF + KMeans + Ridge ML models
+- 📊 8 interactive dashboard modules
+- 🌙 Dark mode + CI/CD + Docker
 
 </td>
 <td width="33%" valign="top">
 
 ### 🧠 NeuralForge
-**AI Security & MLOps platform**
+**AI Security & MLOps Platform**
 
-Adversarial attack simulation (FGSM/PGD/C&W), real-time threat detection, model drift monitoring, and SHAP explainability.
+[![Live](https://img.shields.io/badge/🧠_Live-neuralforge--ten.vercel.app-ec4899?style=flat-square)](https://neuralforge-ten.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-NeuralForge-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/neuralforge)
 
-**Stack:** PyTorch · FastAPI · React · MLflow · DistilBERT
+<img src="https://github.com/praneethcheturi-143/neuralforge/raw/master/assets/dashboard.png" width="100%" style="border-radius:8px"/>
+
+Adversarial attacks from scratch, real-time threat streaming, drift detection, SHAP explainability, auto-retraining.
+
+**Stack:**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Highlights:**
-- Attacks built from scratch in PyTorch
-- WebSocket live threat streaming
-- Auto-retraining pipeline
-- Model cards · GitHub Actions CI/CD
-
-[![Live](https://img.shields.io/badge/Live-neuralforge--ten.vercel.app-brightgreen)](https://neuralforge-ten.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-NeuralForge-black?logo=github)](https://github.com/praneethcheturi-143/neuralforge)
+- ⚔️ FGSM/PGD/C&W built in PyTorch
+- 📡 WebSocket live threat feed
+- 🔄 8-stage auto-retrain pipeline
+- 📋 Google/HuggingFace model cards
 
 </td>
 <td width="33%" valign="top">
 
 ### 🚀 CollabFlow
-**Real-time collaboration platform**
+**Real-time Collaboration Platform**
 
-Full-stack Kanban board with WebSocket sync, JWT auth, drag-and-drop, and PostgreSQL backend.
+[![Live](https://img.shields.io/badge/🚀_Live-collabflow--seven.vercel.app-10b981?style=flat-square)](https://collabflow-seven.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-collabflow-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/collabflow)
 
-**Stack:** React · Node.js · Socket.io · PostgreSQL · Docker
+<img src="https://github.com/praneethcheturi-143/collabflow/raw/main/assets/dashboard.png" width="100%" style="border-radius:8px"/>
+
+Full-stack Kanban board with real-time multi-user sync, JWT auth, drag-and-drop, and PostgreSQL backend.
+
+**Stack:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Highlights:**
-- Real-time multi-user sync
-- JWT + bcrypt auth
-- Drag-and-drop Kanban
-- Rate limiting · helmet.js · CI/CD
-
-[![Live](https://img.shields.io/badge/Live-collabflow--seven.vercel.app-brightgreen)](https://collabflow-seven.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-collabflow-black?logo=github)](https://github.com/praneethcheturi-143/collabflow)
+- ⚡ Real-time multi-user sync
+- 🔐 JWT + bcrypt auth
+- 🃏 Drag-and-drop Kanban
+- 🐳 Docker + GitHub Actions CI/CD
 
 </td>
 </tr>
@@ -80,82 +133,186 @@ Full-stack Kanban board with WebSocket sync, JWT auth, drag-and-drop, and Postgr
 
 ---
 
+## 🏗️ System Architecture — How I Build
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                        MY TYPICAL STACK                              │
+├──────────────┬──────────────┬──────────────┬────────────────────────┤
+│  DATA LAYER  │  ML LAYER    │  API LAYER   │    FRONTEND LAYER      │
+│              │              │              │                        │
+│ World Bank   │ scikit-learn │ FastAPI      │ React 18               │
+│ Census ACS   │ PyTorch      │ Pydantic     │ D3.js choropleth       │
+│ REST APIs    │ HuggingFace  │ WebSocket    │ Recharts               │
+│ Pandas ETL   │ MLflow       │ JWT Auth     │ TypeScript             │
+│ Parquet/CSV  │ SHAP/XAI     │ Swagger      │ Dark mode              │
+└──────────────┴──────────────┴──────────────┴────────────────────────┤
+│                      DEVOPS LAYER                                    │
+│  Docker · docker-compose · GitHub Actions CI/CD · Render · Vercel   │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+### Data Science & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-2.2-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.26-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-2.11-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Data Science & ML**
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4.x-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-4.x-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+### Frontend & Visualisation
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![D3.js](https://img.shields.io/badge/D3.js-7.x-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-2.x-22B5BF?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-24-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Backend-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-Frontend-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 What I build
-
-```
-Data Engineering    ████████████████████  ETL pipelines · REST API integration · Parquet/CSV
-Machine Learning    ████████████████████  Random Forest · KMeans · Ridge · DistilBERT · ResNet
-AI Security         ████████████████░░░░  Adversarial attacks · Drift detection · SHAP
-Full-Stack          ████████████████░░░░  React · FastAPI · Node.js · PostgreSQL · WebSocket
-DevOps              ████████████░░░░░░░░  Docker · GitHub Actions · Render · Vercel
-```
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneethcheturi-143&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethcheturi-143&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praneethcheturi-143&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethcheturi-143&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=praneethcheturi-143&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎓 Background
+## 🎯 What I'm targeting
 
-- **Masters in Computer Science** — University at Buffalo
-- Focus: Machine Learning, Data Science, Software Engineering
-- Currently targeting DS/ML/Full-Stack roles (0–4 years)
-- Open to: Data Scientist · ML Engineer · Data Engineer · Full-Stack Engineer · AI Engineer
+<div align="center">
+
+| Role | Skills match | Projects |
+|------|-------------|---------|
+| 🧪 **Data Scientist** | ETL · ML models · Statistics · Visualisation | InequalityLens |
+| 🤖 **ML Engineer** | PyTorch · scikit-learn · MLflow · model deployment | NeuralForge |
+| 🔧 **Data Engineer** | ETL pipelines · REST APIs · Parquet · PostgreSQL | InequalityLens |
+| 💻 **Full-Stack Engineer** | React · Node.js · FastAPI · WebSockets · Docker | CollabFlow |
+| 🛡️ **AI Engineer** | Adversarial ML · SHAP · Drift detection · LLMs | NeuralForge |
+
+</div>
+
+---
+
+## 🧩 ML Skills Breakdown
+
+```
+Data Engineering     ██████████████████░░  90%   ETL · APIs · Parquet · Pandas
+Machine Learning     █████████████████░░░  85%   RF · KMeans · Ridge · PyTorch
+Deep Learning        ████████████████░░░░  80%   ResNet · DistilBERT · fine-tuning
+AI Security          ███████████████░░░░░  75%   FGSM · PGD · C&W · adversarial
+MLOps                ██████████████░░░░░░  70%   MLflow · drift · auto-retrain
+Visualisation        █████████████████░░░  85%   D3.js · Recharts · matplotlib
+Full-Stack           ████████████████░░░░  80%   React · Node · FastAPI · WebSocket
+DevOps               ██████████████░░░░░░  70%   Docker · CI/CD · Render · Vercel
+```
+
+---
+
+## 🔬 ML Achievements
+
+<div align="center">
+
+| Model | Task | Accuracy | Tech |
+|-------|------|----------|------|
+| ResNet-18 | CIFAR-10 image classification | **91.2%** | PyTorch |
+| DistilBERT | Security sentiment (3-class) | **88.7%** | HuggingFace |
+| IsolationForest | Anomaly detection | **94.1%** | scikit-learn |
+| Random Forest | Gini index prediction | **R² = 0.78** | scikit-learn |
+| KMeans | Country clustering | **Silhouette = 0.61** | scikit-learn |
+
+</div>
+
+---
+
+## 🚀 Deployment Architecture
+
+```
+GitHub (source of truth)
+        │
+        ├── Push to main/master
+        │         │
+        │    GitHub Actions CI/CD
+        │         │
+        │    ┌────┴────┐
+        │    │         │
+        │  Render    Vercel
+        │  (Python   (React
+        │  FastAPI)  Frontend)
+        │    │         │
+        │    └────┬────┘
+        │         │
+        │    Live URLs
+        │    ✅ inequalitylens.onrender.com
+        │    ✅ inequality-lens.vercel.app
+        │    ✅ neuralforge-e6ci.onrender.com
+        │    ✅ neuralforge-ten.vercel.app
+        │    ✅ collabflow-api.onrender.com
+        └──  ✅ collabflow-seven.vercel.app
+```
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+[![Praneeth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=praneethcheturi-143&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=praneethcheturi-143&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Build things that work. Ship things that matter."*
+### 💬 Let's connect!
 
-**📫 Reach me at praneethcheturi@gmail.com**
+I'm actively looking for DS · ML · Data Engineering · Full-Stack roles (0–4 years).
+If you're hiring or want to collaborate — reach out!
+
+[![Email](https://img.shields.io/badge/📧_vcheturi%40buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vcheturi@buffalo.edu)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethcheturi)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,06b6d4,ec4899&height=100&section=footer" width="100%"/>
 
 </div>
