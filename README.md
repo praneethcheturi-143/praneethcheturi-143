@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,06b6d4,ec4899&height=200&section=header&text=Praneeth%20Cheturi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:ec4899&height=250&section=header&text=Praneeth%20Cheturi&fontSize=60&fontColor=ffffff&fontAlignY=45&fontWeight=700&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=65&descSize=20&descColor=e0e7ff&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -57,8 +57,8 @@ print(me.build())
 ### ⚖️ InequalityLens
 **Full-stack DS Platform**
 
-[![Live](https://img.shields.io/badge/🌍_Live-inequality--lens.vercel.app-6366f1?style=flat-square)](https://inequality-lens.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-InequalityLens-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/InequalityLens)
+[![Live](https://img.shields.io/badge/🌍_Live-Visit-6366f1?style=flat-square)](https://inequality-lens.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/InequalityLens)
 
 <img src="https://github.com/praneethcheturi-143/InequalityLens/raw/main/assets/dashboard.png" width="100%" style="border-radius:8px"/>
 
@@ -69,7 +69,7 @@ Real-world inequality analytics with ETL pipeline, ML models, D3 choropleth, pol
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square)
 
 **Highlights:**
 - 🔄 ETL: World Bank + Census ACS APIs
@@ -83,8 +83,8 @@ Real-world inequality analytics with ETL pipeline, ML models, D3 choropleth, pol
 ### 🧠 NeuralForge
 **AI Security & MLOps Platform**
 
-[![Live](https://img.shields.io/badge/🧠_Live-neuralforge--ten.vercel.app-ec4899?style=flat-square)](https://neuralforge-ten.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-NeuralForge-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/neuralforge)
+[![Live](https://img.shields.io/badge/🧠_Live-Visit-ec4899?style=flat-square)](https://neuralforge-ten.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/neuralforge)
 
 <img src="https://github.com/praneethcheturi-143/neuralforge/raw/master/assets/dashboard.png" width="100%" style="border-radius:8px"/>
 
@@ -108,8 +108,8 @@ Adversarial attacks from scratch, real-time threat streaming, drift detection, S
 ### 🚀 CollabFlow
 **Real-time Collaboration Platform**
 
-[![Live](https://img.shields.io/badge/🚀_Live-collabflow--seven.vercel.app-10b981?style=flat-square)](https://collabflow-seven.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-collabflow-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/collabflow)
+[![Live](https://img.shields.io/badge/🚀_Live-Visit-10b981?style=flat-square)](https://collabflow-seven.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/praneethcheturi-143/collabflow)
 
 <img src="https://github.com/praneethcheturi-143/collabflow/raw/main/assets/dashboard.png" width="100%" style="border-radius:8px"/>
 
@@ -133,7 +133,7 @@ Full-stack Kanban board with real-time multi-user sync, JWT auth, drag-and-drop,
 
 ---
 
-## 🏗️ System Architecture — How I Build
+## 🏗️ System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -202,20 +202,20 @@ Full-stack Kanban board with real-time multi-user sync, JWT auth, drag-and-drop,
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=praneethcheturi-143&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=praneethcheturi-143&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎯 What I'm targeting
+## 🎯 Roles I'm Targeting
 
 <div align="center">
 
-| Role | Skills match | Projects |
+| Role | Skills match | Project |
 |------|-------------|---------|
 | 🧪 **Data Scientist** | ETL · ML models · Statistics · Visualisation | InequalityLens |
-| 🤖 **ML Engineer** | PyTorch · scikit-learn · MLflow · model deployment | NeuralForge |
+| 🤖 **ML Engineer** | PyTorch · scikit-learn · MLflow · deployment | NeuralForge |
 | 🔧 **Data Engineer** | ETL pipelines · REST APIs · Parquet · PostgreSQL | InequalityLens |
 | 💻 **Full-Stack Engineer** | React · Node.js · FastAPI · WebSockets · Docker | CollabFlow |
 | 🛡️ **AI Engineer** | Adversarial ML · SHAP · Drift detection · LLMs | NeuralForge |
@@ -224,7 +224,7 @@ Full-stack Kanban board with real-time multi-user sync, JWT auth, drag-and-drop,
 
 ---
 
-## 🧩 ML Skills Breakdown
+## 🧩 Skills Breakdown
 
 ```
 Data Engineering     ██████████████████░░  90%   ETL · APIs · Parquet · Pandas
@@ -239,55 +239,49 @@ DevOps               ██████████████░░░░░�
 
 ---
 
-## 🔬 ML Achievements
+## 🔬 ML Model Performance
 
 <div align="center">
 
-| Model | Task | Accuracy | Tech |
-|-------|------|----------|------|
-| ResNet-18 | CIFAR-10 image classification | **91.2%** | PyTorch |
-| DistilBERT | Security sentiment (3-class) | **88.7%** | HuggingFace |
-| IsolationForest | Anomaly detection | **94.1%** | scikit-learn |
-| Random Forest | Gini index prediction | **R² = 0.78** | scikit-learn |
-| KMeans | Country clustering | **Silhouette = 0.61** | scikit-learn |
+| Model | Task | Metric | Score |
+|-------|------|--------|-------|
+| ResNet-18 | CIFAR-10 image classification | Accuracy | **91.2%** |
+| DistilBERT | Security sentiment (3-class) | Accuracy | **88.7%** |
+| IsolationForest | Anomaly detection | Accuracy | **94.1%** |
+| Random Forest | Gini index prediction | R² | **0.78** |
+| KMeans | Country clustering | Silhouette | **0.61** |
 
 </div>
 
 ---
 
-## 🚀 Deployment Architecture
+## 🚀 Deployment Map
 
 ```
-GitHub (source of truth)
-        │
-        ├── Push to main/master
-        │         │
-        │    GitHub Actions CI/CD
-        │         │
-        │    ┌────┴────┐
-        │    │         │
-        │  Render    Vercel
-        │  (Python   (React
-        │  FastAPI)  Frontend)
-        │    │         │
-        │    └────┬────┘
-        │         │
-        │    Live URLs
-        │    ✅ inequalitylens.onrender.com
-        │    ✅ inequality-lens.vercel.app
-        │    ✅ neuralforge-e6ci.onrender.com
-        │    ✅ neuralforge-ten.vercel.app
-        │    ✅ collabflow-api.onrender.com
-        └──  ✅ collabflow-seven.vercel.app
+GitHub ──► GitHub Actions CI/CD
+                │
+        ┌───────┴───────┐
+        ▼               ▼
+     Render           Vercel
+   (Backend)        (Frontend)
+        │               │
+   FastAPI API      React App
+        │               │
+        └───────┬───────┘
+                ▼
+         Live Production
+  ✅ inequality-lens.vercel.app
+  ✅ neuralforge-ten.vercel.app
+  ✅ collabflow-seven.vercel.app
 ```
 
 ---
 
-## 📈 Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Praneeth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=praneethcheturi-143&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praneethcheturi-143&theme=tokyo-night&hide_border=true&area=true&point=6366f1&line=06b6d4&color=e0e7ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -297,7 +291,7 @@ GitHub (source of truth)
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=praneethcheturi-143&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=praneethcheturi-143&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -307,12 +301,16 @@ GitHub (source of truth)
 
 ### 💬 Let's connect!
 
-I'm actively looking for DS · ML · Data Engineering · Full-Stack roles (0–4 years).
+I'm actively looking for **DS · ML · Data Engineering · Full-Stack roles (0–4 years).**
 If you're hiring or want to collaborate — reach out!
 
-[![Email](https://img.shields.io/badge/📧_vcheturi%40buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vcheturi@buffalo.edu)
+<br/>
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vcheturi@buffalo.edu)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethcheturi)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,06b6d4,ec4899&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:06b6d4,100:6366f1&height=120&section=footer" width="100%"/>
 
 </div>
