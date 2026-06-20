@@ -4,12 +4,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+end-to-end+ML+systems+%F0%9F%A7%A0;From+raw+data+pipelines+to+production+apps+%F0%9F%9A%80;MS+Computer+Science+%40+University+at+Buffalo+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=MS+Computer+Science+%40+University+at+Buffalo+%F0%9F%8E%93;Building+end-to-end+ML+systems+from+scratch+%F0%9F%A7%A0;From+raw+data+pipelines+to+production+apps+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethcheturi)
-[![Email](https://img.shields.io/badge/Email-praneethcheturi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethcheturi@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-praneethcheturi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneethcheturi@gmail.com)
+
 [![InequalityLens](https://img.shields.io/badge/🌍_InequalityLens-Live-6366f1?style=for-the-badge)](https://inequality-lens.vercel.app)
 [![NeuralForge](https://img.shields.io/badge/🧠_NeuralForge-Live-ec4899?style=for-the-badge)](https://neuralforge-ten.vercel.app)
 [![CollabFlow](https://img.shields.io/badge/🚀_CollabFlow-Live-10b981?style=for-the-badge)](https://collabflow-seven.vercel.app)
@@ -32,10 +33,10 @@ class PraneethCheturi:
         self.email        = "praneethcheturi@gmail.com"
         self.open_to      = ["DS", "ML Engineering", "Data Engineering",
                              "Full-Stack", "AI Engineering"]
-        self.experience   = "0–4 years level"
+        self.experience   = "0-4 years level"
 
     def build(self):
-        return "End-to-end ML systems — from raw data pipelines to deployed production apps"
+        return "End-to-end ML systems — raw data pipelines to deployed production apps"
 
     def current_focus(self):
         return [
@@ -47,7 +48,7 @@ class PraneethCheturi:
 
 me = PraneethCheturi()
 print(me.build())
-# → End-to-end ML systems — from raw data pipelines to deployed production apps
+# → End-to-end ML systems — raw data pipelines to deployed production apps
 ```
 
 ---
@@ -69,14 +70,12 @@ print(me.build())
 
 Real-world inequality analytics — ETL pipeline from World Bank + Census APIs, ML models, D3 choropleth map, policy simulator, and AI analyst.
 
-**Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square)
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square)
 
-**Highlights:**
 - 🔄 ETL: World Bank + Census ACS APIs
 - 🤖 RF + KMeans + Ridge ML models
 - 📊 8 interactive dashboard modules
@@ -96,13 +95,11 @@ Real-world inequality analytics — ETL pipeline from World Bank + Census APIs, 
 
 Adversarial attacks from scratch in PyTorch, real-time WebSocket threat streaming, SHAP explainability, drift detection, and auto-retraining with MLflow.
 
-**Stack:**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Highlights:**
 - ⚔️ FGSM/PGD/C&W built in PyTorch
 - 📡 WebSocket live threat feed
 - 🔄 8-stage auto-retrain pipeline
@@ -122,13 +119,11 @@ Adversarial attacks from scratch in PyTorch, real-time WebSocket threat streamin
 
 Full-stack Kanban board with real-time multi-user sync via Socket.io, JWT auth, drag-and-drop, PostgreSQL, and GitHub Actions CI/CD.
 
-**Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**Highlights:**
 - ⚡ Real-time multi-user sync
 - 🔐 JWT + bcrypt auth
 - 🃏 Drag-and-drop Kanban
@@ -297,9 +292,10 @@ GitHub ──► GitHub Actions CI/CD
 
 ### 💬 Let's connect!
 
-**MS Computer Science @ University at Buffalo 🎓**
+**🎓 MS Computer Science @ University at Buffalo**
 
 I'm actively looking for **DS · ML · Data Engineering · Full-Stack roles (0–4 years)**
+
 If you're hiring or want to collaborate — reach out!
 
 <br/>
